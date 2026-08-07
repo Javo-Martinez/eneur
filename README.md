@@ -1,10 +1,10 @@
 /revista-flatfile
 
-# ├── index.php                 # Hace el redirect dinámico al último número disponible
+├── index.php                 # Hace el redirect dinámico al último número disponible
 
-# ├── index-1.php               # Portada del Número 1 (Botón ENTRAR)
+├── index-1.php               # Portada del Número 1 (Botón ENTRAR)
 
-# ├── index-2.php               # Portada del Número 2 (Botón ENTRAR)
+├── index-2.php               # Portada del Número 2 (Botón ENTRAR)
 
 # ├── eneur.php                 # LA SPA CORE: Maneja el índice (id=0), las notas (id>=1) y el historial
 
