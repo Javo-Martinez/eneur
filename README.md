@@ -1,3 +1,6 @@
+Estructura candidata
+
+
 /revista-flatfile
 
 ├── index.php                 # Hace el redirect dinámico al último número disponible
